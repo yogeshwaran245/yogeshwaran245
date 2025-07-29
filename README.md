@@ -14,6 +14,15 @@ My core mission is to build scalable, intelligent systems that solve real-world 
 
 ---
 
+## 💼 Experience
+
+🧠 **Machine Learning Intern @ NLC India Ltd**  
+Worked on predictive maintenance systems using computer vision. Developed an AI pipeline to detect conveyor belt damage in real-time, reducing manual inspection and improving operational efficiency.
+
+🌿 **Deep Learning Intern @ Geo-Sensing & Imaging Consultancy**  
+Built and deployed deep learning models for plant disease identification and environmental monitoring. Focused on data preprocessing and model accuracy for field-ready AI tools.
+
+---
 ## 🧠 Technical Skills
 
 | Domain                       | Tools / Technologies                                 |
@@ -54,9 +63,9 @@ Here are some of my most impactful and technically rich projects:
 
 ---
 
-### 🔗 [Multi-Camera Object Tracking System](https://github.com/yogeshwaran245/Object_tracking) 
+### 🔗 [Object Tracking System](https://github.com/yogeshwaran245/Object_tracking) 
 > 🎥 Computer Vision | OpenCV | YOLO | DeepSORT  
-- Developed a real-time multi-camera object tracking system for public safety and surveillance.  
+- Developed a real-time object tracking system for public safety and surveillance.  
 - Utilized YOLO for detection and DeepSORT for identity tracking across different views.  
 - Achieved **high accuracy in consistent identity tracking** across overlapping frames.
 
