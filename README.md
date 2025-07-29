@@ -1,37 +1,94 @@
 # 👋 Hey there, I'm Yogeshwaran!
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
-📍 Chennai, India | ✉️ yogeshwaransrinivasan005@gmail.com  
-🔗 [Portfolio Website](https://yogeshwaransportfolio.netlify.app) | [LinkedIn](http://www.linkedin.com/in/yogeshwaransrinivasan)
+📍 Chennai, India  
+✉️ yogeshwaransrinivasan005@gmail.com  
+🌐 [Portfolio Website](https://yogeshwaransportfolio.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yogeshwaransrinivasan) | [GitHub](https://github.com/yogeshwaran245)
+
+---
 
 ## 🚀 About Me
 
-I'm a Machine & Deep Learning Engineer with experience in:
-- 🔧 Industrial AI solutions (Predictive Maintenance at NLC)
-- 🌿 Agricultural AI (Plant Disease Detection using CNNs)
-- 🛫 Safety Automation (Runway Debris Detection using Faster R-CNN)
+I'm Yogeshwaran, a passionate AI/ML engineer with a focus on deep learning, computer vision, and real-world impact. I enjoy building intelligent systems that solve everyday problems — from automation to agriculture. Currently pursuing my B.Tech in AIML, I’ve gained practical experience through internships and hands-on projects that merge innovation with usability. Always learning, always building.
+My core mission is to build scalable, intelligent systems that solve real-world problems. I love blending **model performance** with **deployment readiness**.
 
-I love building optimized ML models, deploying them to real-world systems, and making data work smarter!
+---
 
-## 🧠 Skills
-**Languages:** Python, Java, C  
-**Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn  
-**Concepts:** Object Detection, Image Segmentation, Transfer Learning  
-**Tools:** Flask, Roboflow, GitHub, SQL  
-**Other:** Hugging Face, LangChain, Prompt Engineering
+## 🧠 Technical Skills
 
-## 📂 Featured Projects
+| Domain                       | Tools / Technologies                                 |
+|-----------------------------|-------------------------------------------------------|
+| Programming Languages       | Python, Java, C                                       |
+| ML/DL Frameworks            | PyTorch, TensorFlow, Scikit-learn                     |
+| Computer Vision             | OpenCV, YOLOv8, Faster R-CNN, ResNet, Image Segmentation |
+| NLP                         | Transformers, Hugging Face, LangChain (Basic), Sentiment Analysis |
+| Web & Deployment            | Flask, GitHub, Roboflow, Google Colab, Netlify       |
+| Data Handling & Analysis    | NumPy, Pandas, Feature Engineering, Visualization     |
+| Optimization & Deployment   | Model Optimization, GPU Acceleration, API Deployment |
+| Databases & Version Control | SQL, Git, GitHub                                      |
 
-| Project | Tech | Highlights |
-|--------|------|-----------|
-| [🔗 Conveyor Belt Damage Detection](https://github.com/yogeshwaran245/Conveyer-Belt-Damage-Detection-) | YOLOv8, PyTorch | 95% accuracy, 40% inspection time reduction |
-| [🔗 Plant Disease Detection](https://github.com/yogeshwaran245/plant-disease-detection) | MobileNetV2, EfficientNet | 22-class custom dataset, 92% accuracy |
-| [🔗 FOD Detection](https://github.com/yogeshwaran245/FOD_Detection) | Faster R-CNN | Enhanced runway safety |
-| [🔗 Gender Classification](https://github.com/yogeshwaran245/Gender-Classification-Model) | Flask, Scikit-learn | Real-time facial classification app |
+---
+
+## 🏆 Projects
+
+Here are some of my most impactful and technically rich projects:
+
+### 🔗 [Conveyor Belt Damage Detection](https://github.com/yogeshwaran245/Conveyer-Belt-Damage-Detection-)
+> 📌 Industrial AI | YOLOv8 | PyTorch  
+- Built a YOLOv8-based detection system for real-time conveyor belt damage monitoring.  
+- Achieved **95% accuracy**, reducing inspection time by **40%** in field trials.
+
+---
+
+### 🔗 [Plant Disease Detection](https://github.com/yogeshwaran245/plant-disease-detection)
+> 🌾 Agriculture | MobileNetV2 & EfficientNet | PyTorch  
+- Trained deep learning models on a **22-class Kaggle dataset** to identify plant diseases.  
+- Achieved **92% accuracy** using transfer learning and data augmentation.
+
+---
+
+### 🔗 [FOD Detection (Runway Safety)](https://github.com/yogeshwaran245/FOD_Detection)
+> 🛬 Aviation Safety | Faster R-CNN | ResNet50  
+- Designed and deployed a real-time system to detect foreign object debris on runways.  
+- Leveraged **Faster R-CNN + ResNet50** to boost detection accuracy for aviation-grade reliability.
+
+---
+
+### 🔗 [Multi-Camera Object Tracking System](https://github.com/yogeshwaran245/Object_tracking) 
+> 🎥 Computer Vision | OpenCV | YOLO | DeepSORT  
+- Developed a real-time multi-camera object tracking system for public safety and surveillance.  
+- Utilized YOLO for detection and DeepSORT for identity tracking across different views.  
+- Achieved **high accuracy in consistent identity tracking** across overlapping frames.
+
+---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshwaran245&show_icons=true&theme=radical)
 
-## 📫 Let's Connect!
-📧 yogeshwaransrinivasan005@gmail.com  
-🔗 [LinkedIn](http://www.linkedin.com/in/yogeshwaransrinivasan)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaran245&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshwaran245&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎖️ Certifications
+
+- Machine Learning – Internshala  
+- Supervised ML: Regression & Classification – Coursera  
+- Python for Data Science – NPTEL  
+- Data Mining – NPTEL  
+
+---
+
+## 📬 Let's Connect!
+
+Feel free to reach out if you're interested in collaborating, mentoring, or just geeking out on AI:
+
+- 📧 **Email**: yogeshwaransrinivasan005@gmail.com  
+- 💼 **LinkedIn**: [@yogeshwaransrinivasan](https://www.linkedin.com/in/yogeshwaransrinivasan)  
+- 🌐 **Portfolio**: [yogeshwaransportfolio.netlify.app](https://yogeshwaransportfolio.netlify.app)  
+
+---
+
+⭐️ *Thank you for visiting my profile! If you like my work, feel free to follow or connect.*  
