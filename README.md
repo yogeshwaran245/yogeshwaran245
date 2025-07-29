@@ -106,14 +106,18 @@ Here are some of my most impactful and technically rich projects:
 - Achieved **high accuracy in consistent identity tracking** across overlapping frames.
 
 ---
+<h2 align="center">📈 GitHub Stats</h2>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaran245&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=yogeshwaran245&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaran245&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaran245&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
