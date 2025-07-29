@@ -25,16 +25,52 @@ Built and deployed deep learning models for plant disease identification and env
 ---
 ## 🧠 Technical Skills
 
-| Domain                       | Tools / Technologies                                 |
-|-----------------------------|-------------------------------------------------------|
-| Programming Languages       | Python, Java, C                                       |
-| ML/DL Frameworks            | PyTorch, TensorFlow, Scikit-learn                     |
-| Computer Vision             | OpenCV, YOLOv8, Faster R-CNN, ResNet, Image Segmentation |
-| NLP                         | Transformers, Hugging Face, LangChain (Basic), Sentiment Analysis |
-| Web & Deployment            | Flask, GitHub, Roboflow, Google Colab, Netlify       |
-| Data Handling & Analysis    | NumPy, Pandas, Feature Engineering, Visualization     |
-| Optimization & Deployment   | Model Optimization, GPU Acceleration, API Deployment |
-| Databases & Version Control | SQL, Git, GitHub                                      |
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 📚 ML / DL Frameworks  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🧠 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
+![Faster R-CNN](https://img.shields.io/badge/Faster%20R--CNN-orange?style=for-the-badge)
+![ResNet](https://img.shields.io/badge/ResNet-gray?style=for-the-badge)
+![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-009688?style=for-the-badge)
+
+### 🗣️ NLP & LLM Tools  
+![Transformers](https://img.shields.io/badge/Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-9C27B0?style=for-the-badge)
+
+### 🌐 Web & Deployment  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-2D6CDF?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 📊 Data Handling & Analysis  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Visualization-F06292?style=for-the-badge)
+
+### 🚀 Optimization & Deployment  
+![Model Optimization](https://img.shields.io/badge/Model%20Optimization-607d8b?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU%20Acceleration-00bcd4?style=for-the-badge)
+![API Deployment](https://img.shields.io/badge/API%20Deployment-3f51b5?style=for-the-badge)
+
+### 🗄️ Databases & Version Control  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
