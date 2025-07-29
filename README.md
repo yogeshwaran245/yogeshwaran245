@@ -112,7 +112,7 @@ Here are some of my most impactful and technically rich projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaran245&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshwaran245&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yogeshwaran245&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
